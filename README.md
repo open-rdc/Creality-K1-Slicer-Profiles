@@ -11,4 +11,4 @@ This repository hosts a collection of slicer configuration files tailored for th
 - Kexcelled Matte PLA [Amazon Link](https://amzn.asia/d/08aafd0)
 
 ## work log
-[issue](https://github.com/open-rdc/Creality-K1-Slicer-Profiles/issues) 
+- [issues(Japanese)](https://github.com/open-rdc/Creality-K1-Slicer-Profiles/issues) 
