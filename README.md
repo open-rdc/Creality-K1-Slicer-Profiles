@@ -7,6 +7,9 @@ This repository hosts a collection of slicer configuration files tailored for th
 - Orca Slier    [Official website](https://github.com/SoftFever/OrcaSlicer)
 - Prusa Slicer  [Official website](https://www.prusa3d.com/en/page/prusaslicer_424/)
 
+## install
+- [japanese wiki](https://github.com/open-rdc/Creality-K1-Slicer-Profiles/wiki)
+
 ## Filament
 - Kexcelled Matte PLA [Amazon Link](https://amzn.asia/d/08aafd0)
 
